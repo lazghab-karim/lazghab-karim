@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm karim lazghab</h1>
-<h3 align="center">First Year Engineering student</h3>
+<h3 align="center">Second Year Engineering student</h3>
 
 - 🌱 I’m currently learning **Data Structure Algorithms**
 
